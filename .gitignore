@@ -1,0 +1,30 @@
+# Ignorar archivos y carpetas generados automáticamente
+.idea/
+*.class
+*.jar
+
+# Ignorar archivos de configuración de Eclipse
+.settings/
+
+# Ignorar archivos de compilación de Maven
+target/
+build/
+
+# Ignorar archivos de registro y caché
+logs/
+*.log
+*.cache
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+*.swp
+
+# Ignorar archivos de Maven
+.mvn/
+.m2/
+
+# Ignorar archivos de pruebas
+test-classes/
+
+src/main/java/tests
